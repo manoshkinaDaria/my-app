@@ -6,6 +6,5 @@ import "./scripts/swiper.js";
 
 $(function () {
   $('#smarttab').smartTab();
-
 });
 
